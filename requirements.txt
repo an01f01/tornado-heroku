@@ -1,2 +1,6 @@
 passlib==1.7.2
 tornado==6.1
+cryptography
+psycopg2-binary==2.8.6
+queries
+pyjwt
